@@ -1,3 +1,3 @@
 iris dataset
 
-applying some machine learning algirith to classify the type of flower
+applying some machine learning algorithm to classify the species of flower
